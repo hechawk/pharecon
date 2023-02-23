@@ -1,0 +1,9 @@
+### Nachricht vom Kontaktformular
+
+Name: {{name}}
+
+Telefon: {{telefon}}
+
+Email: {{email}}
+
+Nachricht: {{nachricht}}
