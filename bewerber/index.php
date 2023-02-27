@@ -1035,7 +1035,7 @@ echo $totalblog->list_links($list, [
 
 			<span class="h-pro"><!--
 --><!--
---><span class="hTxt primary  ">KARRIEREBERATUNG VON PERSONALPROFIS</span><!--
+--><span class="hTxt primary  ">KARRIEREBERATUNG DURCH DIE PERSONALPROFIS</span><!--
 --><!--
 --><!--
 --><!--
@@ -1176,40 +1176,8 @@ Wir lieben Erfolg &ndash; und zwar nicht nur unseren eigenen, sondern auch den d
 
 	<div class="doo-faq2-wrapper">
 		<div id='stacks_out_1261' class='stacks_out'><div id='stacks_in_1261' class='stacks_in uk_co_doobox_doofaq2child_stack'><!-- Start dooFaq2Child stack each HTML template -->
-
-		<div id="stacks_in_1261q" class="faq-question faqQuestionClosed">
-			
-			
-			<div class="faq-icon">
-				<i id="stacks_in_1261faqTitleIcon" class='fa'></i>
-			</div>
-			
-			<span class="doo-faq-title-text">
-			Karriereberatung
-			</span>
-		</div>
 		<div class="faq-answer"><div id='stacks_out_1263' class='stacks_out'><div id='stacks_in_1263' class='stacks_in com_bigwhiteduck_stacks_paragraphpro_stack'>
 	
-
-
-
-
-
-
-
-
-
-
-
-
-<p class='ppro text-inherit        ' draggable="false">
-
-Entwickeln Sie mit uns neue berufliche Perspektiven und <strong>Karriereziele</strong> und profitieren Sie dabei von unserer Erfahrung. Wir lernen Sie kennen und erfahren Relevantes &uuml;ber Ihre W&uuml;nsche, Ziele und Talente. Nachdem wir uns einen Eindruck verschafft haben, k&ouml;nnen wir Sie gezielt bei Ihrer weiteren Karriereplanung unterst&uuml;tzen. Manchmal ist der eingeschlagene Weg nicht der richtige und es braucht einen externen Impuls, um einen Fortschritt oder Wechsel einzuleiten. Wir sind Ihr Impulsgeber f&uuml;r eine erfolgreiche Karriere, die eine echte Work-Life-Balance m&ouml;glich macht. 
-
-
-</p>
- 
-
 
 <div class='slice empty out'><div class='slice empty in'></div></div>
 
