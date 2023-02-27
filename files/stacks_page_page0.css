@@ -1035,10 +1035,20 @@
 	top: 5%;
 }
 
-#seit {
+.life {
+	position: absolute;
+	color: rgba(0, 87, 161);
+	right: 5%;
+	top: 15% ;
+	font-size: 24px;
+	text-align: right;
+}
+
+.seit {
+	color: rgba(111, 181, 41);
 	position: absolute;
   right: 5%;
-  bottom: 20%;
+  top: 20%;
   font-size: 24px;
   text-align: right;
 }
@@ -1059,5 +1069,5 @@
 }
 
 body {
-	background: white;
+	background-color: white;
 }
