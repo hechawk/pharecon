@@ -1057,3 +1057,7 @@
 	position: relative;
 	z-index: 2;
 }
+
+body {
+	background: white;
+}
