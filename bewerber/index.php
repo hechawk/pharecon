@@ -1035,7 +1035,7 @@ echo $totalblog->list_links($list, [
 
 			<span class="h-pro"><!--
 --><!--
---><span class="hTxt primary  ">KARRIEREBERATUNG DURCH DIE PERSONALPROFIS</span><!--
+--><span class="hTxt primary  ">KARRIERECOACHING DURCH DIE PERSONALPROFIS</span><!--
 --><!--
 --><!--
 --><!--
